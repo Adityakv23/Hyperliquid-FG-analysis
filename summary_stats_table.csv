@@ -1,0 +1,4 @@
+sentiment,N_days,Avg_Daily_PnL,Median_Daily_PnL,PnL_Std,Avg_Win_Rate_pct,Avg_Trades_Day,Avg_Long_pct,Avg_Trade_Size,Avg_Intensity
+Fear,93,7598.73,638.26,25491.26,33.4,114.55,49.4,7442.15,11.48
+Greed,298,4542.9,337.01,23682.41,38.31,67.33,46.82,5942.47,18.43
+Neutral,61,5457.36,153.84,17971.41,32.99,79.31,48.28,6867.92,10.88
